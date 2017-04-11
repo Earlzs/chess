@@ -11,7 +11,7 @@ var me=true;
 
 //水印的实现
 var logo = new Image();
-logo.src = "./image/2.jpg";
+logo.src = "./image/8.jpg";
 logo.onload = function () {
     context.drawImage(logo, 0, 0, 450, 450);
     drawChess();
