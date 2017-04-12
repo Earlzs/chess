@@ -1,10 +1,6 @@
 
 /*canvas style*/
-<<<<<<< HEAD
-canvas{
-    display: block;
-    margin: 80px auto;
-=======
+
 
 body{
     background: "#EFEFEF";
@@ -19,6 +15,6 @@ h1{
 #chess{
     display: block;
     margin: 50px auto;
->>>>>>> master
+
     box-shadow: -2px -2px  2px  #EFEFEF, 5px 5px 5px #B9B9B9;
 }
