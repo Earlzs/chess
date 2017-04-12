@@ -59,8 +59,6 @@ bg.src = './image/8.jpg'
 bg.onload = function () {
     ctx.drawImage(bg, 0, 0, 450, 450);
     drawChessBoard();
-
-    onStep(11, 11, true)
 }
 
 
